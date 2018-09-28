@@ -1,3 +1,10 @@
+---
+title: "How to JAVA star shrape typing"
+date: 2018-9-28 09:26:28 -0400
+categories: Java Developer Program CSS PHP
+---
+
+
 package Report;
 
 public class Report_1 {
